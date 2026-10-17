@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/huggingface/lerobot/commit/146d8474932c8b566717eb2738ba459337ab71c4",
       "git:hexsha": "146d8474932c8b566717eb2738ba459337ab71c4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/lerobot/commit/f771e3eaf1b30aae65768513b2e67d351f5f6c2f",
